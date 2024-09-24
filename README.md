@@ -7,7 +7,7 @@ Usage: "S:\Projects\create_python_project.py" "S:\Projects\Personal\neo4j_rag_la
     path of project: "S:\Projects\Personal\neo4j_rag_langchain"
     path of preferred Python executable: "C:\Program Files\Python310\python.exe"
     
-License: MIT
+License: MIT <br>
 Disclaimer: THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
